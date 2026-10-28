@@ -1,0 +1,32 @@
+{
+  "_read_me": "Your words. Edit any list, save, then run install.sh again so Claude Code picks up the new thinking words. Keep each one short.",
+  "thinking": [
+    "Reading the cards",
+    "Stirring the cauldron",
+    "Casting",
+    "Shuffling the deck",
+    "Lighting the candle",
+    "Consulting the moon",
+    "Drawing a card",
+    "Brewing",
+    "Scrying",
+    "Weaving",
+    "Gathering herbs",
+    "Charging the crystals"
+  ],
+  "greeting": [
+    "the circle is open",
+    "the candle is lit",
+    "the cards are shuffled",
+    "the kettle is on"
+  ],
+  "omen_openers": [
+    "the cards say",
+    "the moon says",
+    "the candle says",
+    "the leopard says"
+  ],
+  "quiet": [
+    "the cards are quiet today. add your own lines to style.json and they will speak."
+  ]
+}
